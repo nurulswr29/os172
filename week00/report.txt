@@ -1,0 +1,2 @@
+WEEK 00
+Membuat Akun Github, kemudian membuat repositori dengan nama os172, dan untuk yang sudah membuat repositori dapat mengisi Google form. Untuk melihat hasil apakah sudah terdaftar, ditunggu 24 jam dan dapat dilihat dari link yang diberitahukan di scele, Jika sudah sukses, maka dapat login ke badak.cs.iu.ac.id melalui ssh yang digunakan pada SIAK masing-masing.#nurul_sakinah
