@@ -1,1 +1,2 @@
 #nurulswr29
+Tujuan dari Belajar OS itu sendiri menurut saya, kita dapat mengetahui setidaknya struktur-struktur dari sitem informasi, sehingga kita bisa memodifikasinya dan mungkin akan membuat OS sendiri yang dapat kita jual dan memudahkan user dalam memakainya.
