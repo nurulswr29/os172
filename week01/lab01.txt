@@ -20,3 +20,5 @@ drwxr-xr-x  2 nurul.sakinah StafCS 4096 Sep  7 16:22 week09
 drwxr-xr-x  2 nurul.sakinah StafCS 4096 Sep  7 16:22 week10
 drwxr-xr-x  2 nurul.sakinah StafCS 4096 Sep  7 16:23 xtra
 /home/fasilkom/mahasiswa/n/nurul.sakinah/os172/week01
+Today is 09 Sep 2017 at 01:07:46
+Today is 09 Sep 2017 at 01:13:57
